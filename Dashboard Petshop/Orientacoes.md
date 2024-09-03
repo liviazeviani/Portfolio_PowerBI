@@ -1,5 +1,5 @@
-###Dashboard realizado no bootcampo (Re)Start Data Girls 2024 - Turma I
-####Orientações de Luciana Pavanelli
+### Dashboard realizado no bootcamp (Re)Start Data Girls 2024 - Turma I
+#### Orientações de Luciana Pavanelli
 
 • A superintendente executiva necessita pagar o bônus de
 R$300 para os Top 5 vendedores que obtiveram o melhor
